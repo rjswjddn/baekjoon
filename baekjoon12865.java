@@ -8,7 +8,8 @@ public class baekjoon12865 {
 		Scanner scanner = new Scanner(System.in);
 		String objectAndWeight = scanner.nextLine();
 		System.out.println(objectAndWeight);
-		
+		int object;
+		int weight;
 	}
 
 }
