@@ -10,6 +10,8 @@ public class baekjoon12865 {
 		System.out.println(objectAndWeight);
 		int object;
 		int weight;
+		
+		int[] backpack = new int[object];
 	}
 
 }
