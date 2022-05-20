@@ -12,6 +12,7 @@ public class baekjoon12865 {
 		int weight;
 		
 		int[] backpack = new int[object];
+		
 	}
 
 }
