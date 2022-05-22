@@ -14,6 +14,7 @@ public class baekjoon12865 {
 		int[] backpack = new int[object];
 		
 		
+		
 	}
 
 }
